@@ -5,5 +5,5 @@ drawio failus var atvērt izmantojot http://draw.io vietni vai Visual Studio Cod
 ## Tēmas
 ### 1. Semestris
 1.,2.,3.,4.,5.,6. - Pitona pamati  
-7. - 1. Kontroldarbs
-8. - Funkcijas
+7. - 1. Kontroldarbs  
+8.,9. - Funkcijas
